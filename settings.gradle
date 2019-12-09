@@ -1,0 +1,2 @@
+include ':libwebsocket', ':test'
+rootProject.name='websocket'
